@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shiv-4s
-- 👀 I’m interested in Front End Technology
-- 🌱 I’m currently learning HTML, CSS JS, Angular, JAVA , Node Js
-- 💞️ I’m looking to collaborate on Front End Technology
+- 👀 I’m interested in Back End Technology
+- 🌱 I’m currently learning Java, SQL
+- 💞️ I’m looking to collaborate on Back End Technology
 - 📫 How to reach me shivambarya049@gmail.com
 
 <!---
