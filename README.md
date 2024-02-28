@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiv-4s
+- 👋 Hi, I’m @shiv-4s a Salesforce Developer
 - 👀 I’m interested in Back End Technology
 - 🌱 I’m currently learning Java, SQL
 - 💞️ I’m looking to collaborate on Back End Technology
